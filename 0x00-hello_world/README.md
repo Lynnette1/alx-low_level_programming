@@ -1,5 +1,6 @@
 #  C - Hello, World
-This project describes compiling with gcc
+In This project i learnt about compiling with gcc and using printf ,puts and putchar
+
 
 # Tasks
 
