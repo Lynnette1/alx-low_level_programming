@@ -1,9 +1,12 @@
-#!/bin/bash
-
 #include <stdio.h>
 
-
-int main()
+/**
+ * main - Prints all possible combinations of three different digits,
+ *        in ascending order, separated by a comma followed by a space.
+ *
+ * Return: Always 0.
+ */
+int main(void)
 {
 	int num1, num2, num3;
 
