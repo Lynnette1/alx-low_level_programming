@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 	char letter;
 
@@ -13,3 +13,4 @@ int main()
 	putchar('\n');
 
 	return (0);
+}
