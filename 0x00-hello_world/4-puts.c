@@ -1,8 +1,13 @@
-#!/bin/bash 
-
 #include <stdio.h>
 
-int main()
+/**
+ * main - Prints "Programming is like building a multilingual
+ *                puzzle, followed by a new line.
+ *
+ * Return: Always 0.
+ */
+ 
+int main(void)
 {
 	//string initialisation
     char putsMystr[] = "Programming is like building a multilingual puzzle";
